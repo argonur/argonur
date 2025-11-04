@@ -6,6 +6,6 @@ I’ve worked on PLCs, embedded systems, and industrial automation — and someh
 - 🌱 I’m currently learning **how to merge industrial automation principles with financial modeling and data-driven decision systems**.  
 - 💞️ I’m working on **a modular investment system** that evaluates market conditions using indicators like VIX, Shiller PE, and sentiment indexes — combining finance, math, and software engineering 🧠📈  
 - 💞️ I’m open to collaborations on **automation software, industrial simulation, or financial analytics tools**.  
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/tu-usuario)** or **GitHub discussions**.  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/arturo-g-544472268/)** or **GitHub discussions**.  
 
 > _I automate the automatable... and sometimes the “impossible.”_ 🚀  
